@@ -13,13 +13,14 @@ The main idea is that the model uses the features extracted by a pre-trained [VG
 
 In this notebook, we are going to transfer the style of the image on the left to the image of me on the right.
 
+```html
 <table>
   <tr>
     <td> <img src="images/paint3.jpg" alt="Drawing" style="width: 250px; height: 300px;"/> </td>
     <td> <img src="images/Me.jpg" alt="Drawing" style="width: 250px; height: 300px;"/> </td>
   </tr>
 </table>
-
+```
 **Note**: I know this style image (image above on the left) is not the most beautiful one but I am a kind of liking it :). So, feel free to choose your own style and content images. Use the cell below to set their paths
 
 
