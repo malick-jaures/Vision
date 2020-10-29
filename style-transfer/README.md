@@ -52,7 +52,7 @@ If you decide to perform the detection on a movie files, use ***young_sheldon_s0
 
 1. Navigate back to the repo
 ```shell
-cd project-face-eye-smile-recognition
+cd style-transfer
 ```
 
 2. Open the notebook and follow the instructions.
